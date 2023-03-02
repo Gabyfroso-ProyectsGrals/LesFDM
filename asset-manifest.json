@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/LesFDM/static/css/main.1486ce9a.css",
-    "main.js": "/LesFDM/static/js/main.f080aaf2.js",
+    "main.js": "/LesFDM/static/js/main.ed781d65.js",
     "static/media/flor2.png": "/LesFDM/static/media/flor2.88e8a04ae3cc9580926f.png",
     "static/media/ajustes.ico": "/LesFDM/static/media/ajustes.f576374f4e3c8284506c.ico",
     "static/media/i.ico": "/LesFDM/static/media/i.3893e16e92997f14a9d3.ico",
     "static/media/flourDiMarie.ico": "/LesFDM/static/media/flourDiMarie.ecaf57c40f26aa1a9cd0.ico",
     "index.html": "/LesFDM/index.html",
     "main.1486ce9a.css.map": "/LesFDM/static/css/main.1486ce9a.css.map",
-    "main.f080aaf2.js.map": "/LesFDM/static/js/main.f080aaf2.js.map"
+    "main.ed781d65.js.map": "/LesFDM/static/js/main.ed781d65.js.map"
   },
   "entrypoints": [
     "static/css/main.1486ce9a.css",
-    "static/js/main.f080aaf2.js"
+    "static/js/main.ed781d65.js"
   ]
 }
