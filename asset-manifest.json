@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LesFDM/static/css/main.6531f67e.css",
-    "main.js": "/LesFDM/static/js/main.ebd705df.js",
+    "main.css": "/LesFDM/static/css/main.d8b9b67a.css",
+    "main.js": "/LesFDM/static/js/main.8ad21b30.js",
     "static/media/ajustes.ico": "/LesFDM/static/media/ajustes.f576374f4e3c8284506c.ico",
     "static/media/flourDiMarie.ico": "/LesFDM/static/media/flourDiMarie.ecaf57c40f26aa1a9cd0.ico",
     "index.html": "/LesFDM/index.html",
-    "main.6531f67e.css.map": "/LesFDM/static/css/main.6531f67e.css.map",
-    "main.ebd705df.js.map": "/LesFDM/static/js/main.ebd705df.js.map"
+    "main.d8b9b67a.css.map": "/LesFDM/static/css/main.d8b9b67a.css.map",
+    "main.8ad21b30.js.map": "/LesFDM/static/js/main.8ad21b30.js.map"
   },
   "entrypoints": [
-    "static/css/main.6531f67e.css",
-    "static/js/main.ebd705df.js"
+    "static/css/main.d8b9b67a.css",
+    "static/js/main.8ad21b30.js"
   ]
 }
