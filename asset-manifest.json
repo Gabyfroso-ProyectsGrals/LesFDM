@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/LesFDM/static/css/main.34f9805f.css",
-    "main.js": "/LesFDM/static/js/main.88146425.js",
+    "main.css": "/LesFDM/static/css/main.a16757d6.css",
+    "main.js": "/LesFDM/static/js/main.d01d909e.js",
+    "static/media/example1.png": "/LesFDM/static/media/example1.60b4449f0e2c47225d33.png",
     "static/media/ajustes.ico": "/LesFDM/static/media/ajustes.f576374f4e3c8284506c.ico",
     "static/media/flourDiMarie.ico": "/LesFDM/static/media/flourDiMarie.ecaf57c40f26aa1a9cd0.ico",
+    "static/media/example.jpg": "/LesFDM/static/media/example.865f3d129c40a58fbf1a.jpg",
+    "static/media/Cats2.jpeg": "/LesFDM/static/media/Cats2.a3aec84e9526e3364172.jpeg",
+    "static/media/Cats1.jpeg": "/LesFDM/static/media/Cats1.ef53465ac29142c419fa.jpeg",
+    "static/media/example2.jpg": "/LesFDM/static/media/example2.132037c5046dd92fd9dd.jpg",
     "index.html": "/LesFDM/index.html",
-    "main.34f9805f.css.map": "/LesFDM/static/css/main.34f9805f.css.map",
-    "main.88146425.js.map": "/LesFDM/static/js/main.88146425.js.map"
+    "main.a16757d6.css.map": "/LesFDM/static/css/main.a16757d6.css.map",
+    "main.d01d909e.js.map": "/LesFDM/static/js/main.d01d909e.js.map"
   },
   "entrypoints": [
-    "static/css/main.34f9805f.css",
-    "static/js/main.88146425.js"
+    "static/css/main.a16757d6.css",
+    "static/js/main.d01d909e.js"
   ]
 }
