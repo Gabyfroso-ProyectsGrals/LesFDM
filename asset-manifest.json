@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LesFDM/static/css/main.a16757d6.css",
+    "main.css": "/LesFDM/static/css/main.eb9e39e1.css",
     "main.js": "/LesFDM/static/js/main.d01d909e.js",
     "static/media/example1.png": "/LesFDM/static/media/example1.60b4449f0e2c47225d33.png",
     "static/media/ajustes.ico": "/LesFDM/static/media/ajustes.f576374f4e3c8284506c.ico",
@@ -10,11 +10,11 @@
     "static/media/Cats1.jpeg": "/LesFDM/static/media/Cats1.ef53465ac29142c419fa.jpeg",
     "static/media/example2.jpg": "/LesFDM/static/media/example2.132037c5046dd92fd9dd.jpg",
     "index.html": "/LesFDM/index.html",
-    "main.a16757d6.css.map": "/LesFDM/static/css/main.a16757d6.css.map",
+    "main.eb9e39e1.css.map": "/LesFDM/static/css/main.eb9e39e1.css.map",
     "main.d01d909e.js.map": "/LesFDM/static/js/main.d01d909e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a16757d6.css",
+    "static/css/main.eb9e39e1.css",
     "static/js/main.d01d909e.js"
   ]
 }
