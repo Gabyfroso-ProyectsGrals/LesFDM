@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LesFDM/static/css/main.da214952.css",
-    "main.js": "/LesFDM/static/js/main.d54d37ca.js",
+    "main.css": "/LesFDM/static/css/main.bcd96c9d.css",
+    "main.js": "/LesFDM/static/js/main.99435bb7.js",
     "static/media/example1.png": "/LesFDM/static/media/example1.60b4449f0e2c47225d33.png",
     "static/media/ajustes.ico": "/LesFDM/static/media/ajustes.f576374f4e3c8284506c.ico",
     "static/media/flourDiMarie.ico": "/LesFDM/static/media/flourDiMarie.ecaf57c40f26aa1a9cd0.ico",
@@ -10,11 +10,11 @@
     "static/media/Cats1.jpeg": "/LesFDM/static/media/Cats1.ef53465ac29142c419fa.jpeg",
     "static/media/example2.jpg": "/LesFDM/static/media/example2.132037c5046dd92fd9dd.jpg",
     "index.html": "/LesFDM/index.html",
-    "main.da214952.css.map": "/LesFDM/static/css/main.da214952.css.map",
-    "main.d54d37ca.js.map": "/LesFDM/static/js/main.d54d37ca.js.map"
+    "main.bcd96c9d.css.map": "/LesFDM/static/css/main.bcd96c9d.css.map",
+    "main.99435bb7.js.map": "/LesFDM/static/js/main.99435bb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.da214952.css",
-    "static/js/main.d54d37ca.js"
+    "static/css/main.bcd96c9d.css",
+    "static/js/main.99435bb7.js"
   ]
 }
