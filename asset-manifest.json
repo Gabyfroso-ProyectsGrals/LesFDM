@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LesFDM/static/css/main.b21790a4.css",
-    "main.js": "/LesFDM/static/js/main.d9f17ac3.js",
+    "main.css": "/LesFDM/static/css/main.290d6944.css",
+    "main.js": "/LesFDM/static/js/main.a7d54f8d.js",
     "static/media/example1.png": "/LesFDM/static/media/example1.60b4449f0e2c47225d33.png",
     "static/media/ajustes.ico": "/LesFDM/static/media/ajustes.f576374f4e3c8284506c.ico",
     "static/media/flourDiMarie.ico": "/LesFDM/static/media/flourDiMarie.ecaf57c40f26aa1a9cd0.ico",
@@ -10,11 +10,11 @@
     "static/media/Cats1.jpeg": "/LesFDM/static/media/Cats1.ef53465ac29142c419fa.jpeg",
     "static/media/example2.jpg": "/LesFDM/static/media/example2.132037c5046dd92fd9dd.jpg",
     "index.html": "/LesFDM/index.html",
-    "main.b21790a4.css.map": "/LesFDM/static/css/main.b21790a4.css.map",
-    "main.d9f17ac3.js.map": "/LesFDM/static/js/main.d9f17ac3.js.map"
+    "main.290d6944.css.map": "/LesFDM/static/css/main.290d6944.css.map",
+    "main.a7d54f8d.js.map": "/LesFDM/static/js/main.a7d54f8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b21790a4.css",
-    "static/js/main.d9f17ac3.js"
+    "static/css/main.290d6944.css",
+    "static/js/main.a7d54f8d.js"
   ]
 }
